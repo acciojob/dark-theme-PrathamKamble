@@ -1,2 +1,3 @@
-//your code here
-
+function swapTheme(){
+	document.body.style.backgroundColor = "black";
+}
